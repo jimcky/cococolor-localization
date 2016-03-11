@@ -140,11 +140,14 @@
     "You can edit as you please": "You can edit as you please",
     "Take back to timeline if unstarted voyage is clicked": "Take back to timeline if unstarted voyage is clicked",
     "Nice drawing!": "Nice drawing!",
-    "Let's blast off to\n Outer Space!": {
-        "": "Let's blast off to\n Outer Space!",
-        "1": " Outer Space!",
-        "0": "Let's blast off to"
-    },
+    "Let's blast off to\n Outer Space!": [
+        {
+            "": "Let's blast off to"
+        },
+        {
+            "": " Outer Space!"
+        }
+    ],
     "Do you want to go on another Voyage?": "Do you want to go on another Voyage?",
     "Do you like Outer Space?": "Do you like Outer Space?",
     "I like Outer Space": "I like Outer Space",
