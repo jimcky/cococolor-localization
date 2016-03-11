@@ -346,9 +346,12 @@
     "This information is not stored and is only used for age verification": "This information is not stored and is only used for age verification",
     "Privacy Policy": "Privacy Policy",
     "ONE TIME OFFER!": "ONE TIME OFFER!",
-    "SHARE ON FACEBOOK": "SHARE ON FACEBOOK",
-    "SHARE TO ADD VOYAGES NOW.": "SHARE TO ADD VOYAGES NOW.",
     "Would you like to save your drawing before creating a blank page?": "Would you like to save your drawing before creating a blank page?",
     "No thanks": "No thanks",
-    "Save": "Save"
+    "Save": "Save",
+    "No, thanks.": "No, thanks.",
+    "SHARE TO UNLOCK THE NEXT VOYAGE FOR FREE": "SHARE TO UNLOCK THE NEXT VOYAGE FOR FREE",
+    "FACEBOOK": "FACEBOOK",
+    "TWITTER": "TWITTER",
+    "INSTAGRAM": "INSTAGRAM"
 }
